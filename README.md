@@ -6,7 +6,9 @@
 
 ##### Utilizaremos la sintaxis moderna de JavaScript, incluyendo async/await, para realizar las solicitudes a la API de forma asincrónica y manejar los datos de manera eficiente.
 
-![]()
+#### Resultado final
+
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/consumir-api-en-svelte.png)
 
 ### Expresiones de Gratitud 🎁
 
